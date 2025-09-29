@@ -33,11 +33,7 @@
 
 ---
 
-## 📝 Key Learnings
-- Java is **pass-by-value**, even for objects (reference is copied).  
-- Strings in Java are **immutable**.  
-- Use `StringBuilder` for efficient string reversal.  
-- Always override `toString()` in classes for better debugging.  
+## 📝 Key Learnings 
 - GitHub commits daily/weekly help track progress.  
 
 ---
