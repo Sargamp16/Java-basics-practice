@@ -16,10 +16,7 @@ It includes **Java fundamentals, OOP concepts, and coding challenges**.
 ---
 
 ## 🚀 LeetCode Progress
-- ✅ Two Sum  
-- ✅ Palindrome Number  
-- ✅ Fizz Buzz  
-- ✅ Reverse String  
+- ✅ Two Sum
 - (updating weekly)  
 
 ---
