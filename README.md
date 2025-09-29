@@ -22,7 +22,7 @@ It includes **Java fundamentals, OOP concepts, and coding challenges**.
 ---
 
 ## 🛠️ Tech Stack
-- **Language**: Java (JDK 17)  
+- **Language**: Java (JDK 22)  
 - **IDE**: VS Code  
 - **Version Control**: Git + GitHub  
 
